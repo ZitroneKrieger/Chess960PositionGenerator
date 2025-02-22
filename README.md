@@ -1,3 +1,3 @@
-Generates any of the legal 960 Positions of Chess960 in the console
+Generates 1 random starting position of the 960 legal positions of Chess960 in the console
 
 E.g. NNBBRKRQ
